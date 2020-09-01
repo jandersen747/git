@@ -74,5 +74,5 @@ if (flip === 1)
 else
     heads++;
 
-console.log('heads: ' + heads);
-console.log('tails: ' + tails);
+document.write('heads: ' + heads);
+document.write('tails: ' + tails);
